@@ -4,6 +4,10 @@ Software engineer in Madrid, focused on AI. I build LLM features and AI agents t
 
 [alicakil.com](https://alicakil.com) · [LinkedIn](https://www.linkedin.com/in/alicakil) · ali@alicakil.com
 
+## Open source
+
+**[dotnet-research-agent](https://github.com/alicakil/dotnet-research-agent)**: an evidence-first deep research agent for .NET, on a provider-agnostic LLM layer (OpenAI, Gemini) with routing and fallback, tool-calling agents, tracing and cost metering. Extracted from Vitena together with its git history.
+
 ## Featured: Vitena
 
 **[Vitena](https://vitena.care)** (founder, 2025–2026) is a practice-management platform for health and wellness professionals, with a public directory where clients find and book them. I built it end to end as the only engineer; it runs in production with real users, in 7 languages, on the web and Android.
